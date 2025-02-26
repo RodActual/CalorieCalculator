@@ -1,6 +1,5 @@
 // Anthony Rodriguez
 // 12/05/2023
-// CIS 1202-101
 
 #include <iostream>
 #include <iomanip>
